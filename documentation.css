@@ -1,0 +1,29 @@
+#Container
+{
+    margin:0px auto;
+    width: 80%;
+    font-family: cursive;
+    margin-top: 50px;
+}
+p
+{
+    border: solid 2px gray;
+    border-radius: 15px;
+
+}
+h3
+{
+    color: crimson;
+
+}
+body
+{
+    border: solid 5px azure;
+
+}
+h1
+{
+    color: blue;
+    text-align: center;
+    font-family: sans-serif;
+}
